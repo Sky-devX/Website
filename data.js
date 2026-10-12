@@ -17,9 +17,9 @@ window.SKYDEV_DATA = {
      look:   Farbe des Plakats: "blue", "night", "teal" oder "violet"
      Die Reihenfolge hier ist die Reihenfolge auf der Seite. */
   posters: [
-    { tag: "Neu", title: "Log Viewer 1.0", text: "Große Logdateien öffnen ohne Wartezeit und nach Zeitraum oder Stichwort filtern.", button: "Zu den Tools", link: "#/tools", look: "blue" },
+    { tag: "Neu", title: "CopyLine", text: "Erste Tool veröffentlichung.", button: "Zu den Tools", link: "#/tools", look: "blue" },
     { tag: "Update", title: "Neue Seite, neues Menü", text: "Programme, Aktualisierungen und ein Kalender mit allen geplanten Neuheiten.", button: "Aktualisierungen", link: "#/updates", look: "night" },
-    { tag: "Bald", title: "Aufgaben-App 1.3", text: "Die nächste Version kommt am 3. November. Alle Termine stehen im Kalender.", button: "Zum Kalender", link: "#/kalender", look: "teal" },
+    { tag: "Bald", title: "CopyLine", text: "Dieses Tool Kommt voraussichtlich am 18.10.2026 heraus.(Kalender)", button: "Zum Kalender", link: "#/kalender", look: "teal" },
     { tag: "Mitmachen", title: "Bau mit an SkyDev", text: "Entwickler, Gestalter und Tester sind willkommen. Bewirb dich mit deiner Idee.", button: "Jetzt bewerben", link: "#/mitmachen", look: "violet" }
   ],
 
