@@ -63,7 +63,7 @@ window.SKYDEV_DATA = {
      time: optional, z. B. "18:00"
      info: was an dem Tag passiert */
   events: [
-    { date: "2026-10-20", type: "Update", title: "Log Viewer 1.1", info: "Dunkles Design und schnellere Suche in sehr großen Dateien.", example: true },
+    { date: "2026-10-18", type: "Neu", title: "CopyLine", info: "1.Tool veröffentlichung", example: true },
     { date: "2026-10-27", type: "Neu", title: "Neue Webseiten-Vorlage", info: "Eine Vorlage für Projektseiten mit Download-Bereich.", example: true },
     { date: "2026-11-03", type: "Update", title: "Aufgaben-App 1.3", info: "Wiederkehrende Aufgaben und ein Widget für den Startbildschirm.", time: "18:00", example: true },
     { date: "2026-11-15", type: "Termin", title: "Offene Runde zum Mitmachen", info: "Wer im Team mitarbeiten will, stellt sich vor. Ort und Link folgen hier.", example: true }
