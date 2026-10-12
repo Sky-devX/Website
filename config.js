@@ -20,7 +20,7 @@ window.SKYDEV_CONFIG = {
   founder: {
     name: "Luca",
     role: "Gründer & Entwickler",
-    text: "Hinter der Website steckt ein 15 jähriger Teenager der das Projekt gestartet hat und jetzt Tool for free erstellen will die jedem im Altag helfen sollen.",
+    text: "Hinter der Website steckt ein 15 jähriger Teenager der das Projekt gestartet hat und jetzt Tools for free erstellen will die jedem im Altag helfen sollen.",
     focus: "Entwicklung & IT",
     place: "Österreich",
     since: "2026"
