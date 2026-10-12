@@ -18,9 +18,9 @@ window.SKYDEV_CONFIG = {
 
   /* Bereich "Der Erfinder" */
   founder: {
-    name: "Dein Name",
+    name: "Luca",
     role: "Gründer & Entwickler",
-    text: "Hier steht, wer hinter SkyDev steckt, warum die Tools entstanden sind und woran gerade gearbeitet wird.",
+    text: "Hinter der Website steckt ein 15 jähriger Teenager der das Projekt gestartet hat und jetzt Tool for free erstellen will die jedem im Altag helfen sollen.",
     focus: "Entwicklung & IT",
     place: "Österreich",
     since: "2026"
@@ -28,9 +28,9 @@ window.SKYDEV_CONFIG = {
 
   /* Impressum (in Österreich Pflicht für öffentliche Webseiten, Zeilen anpassen) */
   impressum: [
-    "Dein vollständiger Name",
+    "Poschacher Luca",
     "Deine Straße und Hausnummer",
-    "PLZ Ort, Österreich",
-    "E-Mail: deine@adresse.at"
+    "Steiermark, Österreich",
+    "E-Mail: Skydev.buissnes@gmail.com"
   ]
 };
