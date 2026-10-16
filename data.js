@@ -19,7 +19,7 @@ window.SKYDEV_DATA = {
   posters: [
     { tag: "Neu", title: "CopyLine", text: "Erste Tool veröffentlichung.", button: "Zu den Tools", link: "#/tools", look: "blue" },
     { tag: "Update", title: "Neue Seite, neues Menü", text: "Programme, Aktualisierungen und ein Kalender mit allen geplanten Neuheiten.", button: "Aktualisierungen", link: "#/updates", look: "night" },
-    { tag: "Bald", title: "CopyLine", text: "Dieses Tool Kommt voraussichtlich am 18.10.2026 heraus.(Kalender)", button: "Zum Kalender", link: "#/kalender", look: "teal" },
+//  { tag: "Bald", title: "CopyLine", text: "Dieses Tool Kommt voraussichtlich am 18.10.2026 heraus.(Kalender)", button: "Zum Kalender", link: "#/kalender", look: "teal" },
     { tag: "Mitmachen", title: "Bau mit an SkyDev", text: "Entwickler, Gestalter und Tester sind willkommen. Bewirb dich mit deiner Idee.", button: "Jetzt bewerben", link: "#/mitmachen", look: "violet" }
   ],
 
